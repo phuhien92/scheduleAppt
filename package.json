@@ -1,7 +1,7 @@
 {
   "name": "express",
   "version": "1.0.0",
-  "description": "SQLITE3 and EXPRESS NODEJS",
+  "description": "Free Online Appointment Schedule Management Business Software",
   "main": "./server/index.js",
   "scripts": {
     "dev:client": "webpack --config webpack.client.js --watch --mode development",
@@ -50,7 +50,7 @@
     "i": "^0.3.6",
     "js-cookie": "^2.2.0",
     "jsonwebtoken": "^8.3.0",
-    "knex": "^0.14.4",
+    "lodash.flatmap": "^4.5.0",
     "lodash.isempty": "^4.4.0",
     "lodash.isequal": "^4.5.0",
     "moment": "^2.22.2",
