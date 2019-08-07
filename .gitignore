@@ -61,7 +61,7 @@ typings/
 .next
 
 # firebase config
-/client/firebase.js
+client/firebase.js
 
 # server
-/server/utils/*
+server/utils/*
