@@ -62,3 +62,6 @@ typings/
 
 # firebase config
 /client/firebase.js
+
+# server
+/server/utils/*
